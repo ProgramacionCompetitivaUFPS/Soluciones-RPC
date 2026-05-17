@@ -1,0 +1,2 @@
+# Configuración local del editor (clang-format, rutas de LLVM, etc.)
+.vscode/
