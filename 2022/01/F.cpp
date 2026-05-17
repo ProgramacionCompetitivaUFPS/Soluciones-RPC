@@ -1,5 +1,5 @@
 /********************************************************************
- * Ejercicio: F                                                     *
+ * Ejercicio: F. Investigating Imposters                                                     *
  * Url: https://redprogramacioncompetitiva.com/contests/2022/01/    *
  * Lenguaje: c++                                                    *
  * Autor: Everything_Is_Binary_Search                               *

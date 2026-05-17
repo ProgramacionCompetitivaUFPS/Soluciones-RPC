@@ -1,5 +1,5 @@
 /********************************************************************
- * Ejercicio: H                                                     *
+ * Ejercicio: H. Longest Common Substring                                                     *
  * Url: https://redprogramacioncompetitiva.com/contests/2022/01/    *
  * Lenguaje: c++                                                    *
  * Autor: Everything_Is_Binary_Search                               *

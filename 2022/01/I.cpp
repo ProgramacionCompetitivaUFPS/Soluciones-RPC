@@ -1,5 +1,5 @@
 /********************************************************************
- * Ejercicio: I                                                     *
+ * Ejercicio: I. Simple Cron Spec                                                     *
  * Url: https://redprogramacioncompetitiva.com/contests/2022/01/    *
  * Lenguaje: c++                                                    *
  * Autor: Everything_Is_Binary_Search                               *

@@ -1,5 +1,5 @@
 /********************************************************************
- * Ejercicio: G                                                     *
+ * Ejercicio: G. Laptop Sticker                                                     *
  * Url: https://redprogramacioncompetitiva.com/contests/2022/01/    *
  * Lenguaje: c++                                                    *
  * Autor: Everything_Is_Binary_Search                               *
